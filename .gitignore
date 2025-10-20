@@ -1,0 +1,15 @@
+# Virtual environments
+.venv/
+
+# Python cache
+__pycache__/
+
+# Data files and model weights
+data/
+*.pth
+
+# IDE project settings
+.idea/
+
+# Logs
+*.log
